@@ -8,13 +8,13 @@ A program that prompts the user for their name and then prints hello, so-and-so,
 Allow the user to decide just how tall the pyramids should be by first prompting them for a positive integer between, say, 1 and 8, inclusive.
 Here’s how the program might work if the user inputs 8 when prompted:
 Height: 8<br>
-<br>       #  #
-<br>      ##  ##
-<br>     ###  ###
-<br>    ####  ####
-<br>   #####  #####
-<br>  ######  ######
-<br> #######  #######
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#  #
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;##  ##
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;###  ###
+<br>&nbsp;&nbsp;&nbsp;&nbsp;####  ####
+<br>&nbsp;&nbsp;&nbsp;#####  #####
+<br>&nbsp;&nbsp;######  ######
+<br>&nbsp;#######  #######
 <br>########  ########
 
 # Credit 
