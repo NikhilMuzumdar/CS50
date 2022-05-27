@@ -30,7 +30,7 @@ That gives us:
 2 + 0 + 0 + 0 + 0 + 12 + 0 + 8<br>
 Now let’s add those products’ digits (i.e., not the products themselves) together:
 2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 13<br>
-Now let’s add that sum (13) to the sum of the digits that weren’t multiplied by 2 (starting from the end):
+Now let’s add that sum (13) to the sum of the digits that weren’t multiplied by 2 (starting from the end):<br>
 13 + 4 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 20
 
 Yup, the last digit in that sum (20) is a 0, so David’s card is legit!
