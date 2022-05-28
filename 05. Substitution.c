@@ -99,7 +99,7 @@ int repeate_check(string cipher_key)
         asci = cipher_key[i];
         for (int j = i + 1; j < n; j++)
         {
-            if (cipher_key[j] == asci)
+            if (cipher_key[j] == asci) // Comparing char to int(asci) which is ok in C language
             {
                 result = 1;
                 break;
