@@ -13,7 +13,7 @@ A program that prints a traingle from the game mario based on validated height i
 https://cs50.harvard.edu/x/2022/psets/1/credit/<br>
 Uses Luhn’s Algorithm to validate a given credit card number.<br>
 
-# 02.A Credit (Optional)
+# 02.A Cash (Optional)
 https://cs50.harvard.edu/x/2022/psets/1/cash/<br>
 Calculates the least number of coins to be given to return a given change.
 
