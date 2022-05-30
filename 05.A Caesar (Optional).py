@@ -1,6 +1,5 @@
 key = None
 
-print(ord("a"), ord("A"))
 while True:
     try:
       key = int(input("Enter key : "))
