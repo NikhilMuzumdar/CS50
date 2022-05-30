@@ -14,7 +14,7 @@ https://cs50.harvard.edu/x/2022/psets/1/credit/<br>
 Uses Luhn’s Algorithm to validate a given credit card number.<br>
 
 # 02.A Credit (Optional)
-https://cs50.harvard.edu/x/2022/psets/1/cash/
+https://cs50.harvard.edu/x/2022/psets/1/cash/<br>
 Calculates the least number of coins to be given to return a given change.
 
 # 03. Scrabble
