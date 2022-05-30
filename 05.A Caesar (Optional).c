@@ -10,7 +10,7 @@ int main(int argc, string argv[])
     if (argc == 2) // Validate the no of arguments
     {
         string key_check = argv[1];
-        if (is_number(key_check) != 1) // A function that checks if there are non digits (0-9) in the key
+        if (is_number(key_check) != 1) // A function that checks if there are non digits (other than 0-9) in the key
         {
             int key = atoi(key_check);
             key = key % 26; // Any thing > 26 must be moded
