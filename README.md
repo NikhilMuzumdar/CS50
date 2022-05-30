@@ -2,14 +2,17 @@
 CS50 PSets
 
 # 00. Hello Name 
+https://cs50.harvard.edu/x/2022/psets/1/hello/<br>
 A program that prompts the user for their name and then prints hello, so-and-so, where so-and-so is their actual name.
 
 # 01. Mario Triangle
+https://cs50.harvard.edu/x/2022/psets/1/mario/more/<br>
 Allow the user to decide just how tall the pyramids should be by first prompting them for a positive integer between, say, 1 and 8, inclusive.
 Here’s how the program might work if the user inputs 8 when prompted:<br>
 ![image](https://user-images.githubusercontent.com/65347048/170426800-6147eb28-2246-46a0-b046-570f9d896dea.png)
 
-# 02. Credit 
+# 02. Credit
+https://cs50.harvard.edu/x/2022/psets/1/credit/<br>
 A credit (or debit) card, of course, is a plastic card with which you can pay for goods and services. Printed on that card is a number that’s also stored in a database somewhere, so that when your card is used to buy something, the creditor knows whom to bill. There are a lot of people with credit cards in this world, so those numbers are pretty long: American Express uses 15-digit numbers, MasterCard uses 16-digit numbers, and Visa uses 13- and 16-digit numbers. And those are decimal numbers (0 through 9), not binary, which means, for instance, that American Express could print as many as 10^15 = 1,000,000,000,000,000 unique cards! (That’s, um, a quadrillion.)
 
 Actually, that’s a bit of an exaggeration, because credit card numbers actually have some structure to them. All American Express numbers start with 34 or 37; most MasterCard numbers start with 51, 52, 53, 54, or 55 (they also have some other potential starting numbers which we won’t concern ourselves with for this problem); and all Visa numbers start with 4. But credit card numbers also have a “checksum” built into them, a mathematical relationship between at least one number and others. That checksum enables computers (or humans who like math) to detect typos (e.g., transpositions), if not fraudulent numbers, without having to query a database, which can be slow. Of course, a dishonest mathematician could certainly craft a fake number that nonetheless respects the mathematical constraint, so a database lookup is still necessary for more rigorous checks.<br>
@@ -40,6 +43,7 @@ So, validating credit card numbers isn’t hard, but it does get a bit tedious b
 In the file called credit.c in the credit directory, write a program that prompts the user for a credit card number and then reports (via printf) whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each’s format herein. So that we can automate some tests of your code, we ask that your program’s last line of output be AMEX\n or MASTERCARD\n or VISA\n or INVALID\n, nothing more, nothing less. For simplicity, you may assume that the user’s input will be entirely numeric (i.e., devoid of hyphens, as might be printed on an actual card) and that it won’t have leading zeroes. But do not assume that the user’s input will fit in an int! Best to use get_long from CS50’s library to get users’ input. (Why?)
 
 # 03. Scrabble
+https://scrabble.hasbro.com/en-us/rules<br>
 In the game of Scrabble, players create words to score points, and the number of points is the sum of the point values of each letter in the word.<br>
 ![image](https://user-images.githubusercontent.com/65347048/170630110-e86fd5c6-1ad0-4b32-8871-67204545c814.png)
 <br>
@@ -58,6 +62,7 @@ Though Scrabble rules normally require that a word be in the dictionary, no need
 In main(), your program should print, depending on the players’ scores, Player 1 wins!, Player 2 wins!, or Tie!.<br>
 
 # 04. Readability
+https://cs50.harvard.edu/x/2022/psets/2/readability/
 According to Scholastic, E.B. White’s Charlotte’s Web is between a second- and fourth-grade reading level, and Lois Lowry’s The Giver is between an eighth- and twelfth-grade reading level. What does it mean, though, for a book to be at a particular reading level?<br>
 Well, in many cases, a human expert might read a book and make a decision on the grade (i.e., year in school) for which they think the book is most appropriate. But an algorithm could likely figure that out too!<br>
 So what sorts of traits are characteristic of higher reading levels? Well, longer words probably correlate with higher reading levels. Likewise, longer sentences probably correlate with higher reading levels, too.<br>
@@ -97,6 +102,7 @@ Grade 12</h5><br>
 <li>If the resulting index number is 16 or higher (equivalent to or greater than a senior undergraduate reading level), your program should output "Grade 16+" instead of giving the exact index number. If the index number is less than 1, your program should output "Before Grade 1".</li></ol>
 
 # 05. Substitution
+https://cs50.harvard.edu/x/2022/psets/2/substitution/<br>
 In a substitution cipher, we “encrypt” (i.e., conceal in a reversible way) a message by replacing every letter with another letter. To do so, we use a key: in this case, a mapping of each of the letters of the alphabet to the letter it should correspond to when we encrypt it. To “decrypt” the message, the receiver of the message would need to know the key, so that they can reverse the process: translating the encrypt text (generally called ciphertext) back into the original message (generally called plaintext).<br>
 
 A key, for example, might be the string NQXPOMAFTRHLZGECYJIUWSKDVB. <br>This 26-character key means that A (the first letter of the alphabet) should be converted into N (the first character of the key), B (the second letter of the alphabet) should be converted into Q (the second character of the key), and so forth.<br>
@@ -121,7 +127,7 @@ Implement your program in a file called substitution.c in a directory called sub
 
 
 # 05.A Caesar Cipher
-
+https://cs50.harvard.edu/x/2022/psets/2/caesar/<br>
 Supposedly, Caesar (yes, that Caesar) used to “encrypt” (i.e., conceal in a reversible way) confidential messages by shifting each letter therein by some number of places. For instance, he might write A as B, B as C, C as D, …, and, wrapping around alphabetically, Z as A. And so, to say HELLO to someone, Caesar might write IFMMP instead. Upon receiving such messages from Caesar, recipients would have to “decrypt” them by shifting letters in the opposite direction by the same number of places.<br><br>
 
 The secrecy of this “cryptosystem” relied on only Caesar and the recipients knowing a secret, the number of places by which Caesar had shifted his letters (e.g., 1). Not particularly secure by modern standards, but, hey, if you’re perhaps the first in the world to do it, pretty secure!<br>
