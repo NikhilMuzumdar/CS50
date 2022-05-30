@@ -1,5 +1,5 @@
 # Lecture 00
-https://www.youtube.com/watch?v=1tnj3UCkuxU
+https://www.youtube.com/watch?v=1tnj3UCkuxU<br>
 CS50 2021 in HDR - Lecture 0 - Scratch<br>
 
 # Lecture 01
