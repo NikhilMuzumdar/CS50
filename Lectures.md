@@ -9,3 +9,7 @@ CS50 2021 in HDR - Lecture 1 C Language<br>
 # Lecture 02
 https://www.youtube.com/watch?v=v_luodP_mfE<br>
 CS50 2021 in HDR - Lecture 2 - Arrays<br>
+
+# Lecture 03
+https://www.youtube.com/watch?v=yb0PY3LX2x8<br>
+CS50 2021 in HDR - Lecture 2 - Algorithms<br>
