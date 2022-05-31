@@ -35,7 +35,7 @@ https://cs50.harvard.edu/x/2022/psets/2/caesar/<br>
 Takes a key to shift the places of letters by that many places. Non alphabets remain unchanged.<br>
 Implimentation using command line argument.<br>
 
-# 06 Lab Assignment
+# 06.L Lab Assignment
 https://cs50.harvard.edu/x/2022/labs/3/<br>
 Solution:<br>
 <table cellspacing=1 border=1>
@@ -135,6 +135,10 @@ Solution:<br>
   <li> Sort2: Merge Sort (Appears to perform better overall indicating the superior Merge Sort) </li>
   <li> Sort3: Selection Sort (Takes longer time even on Sorted Data Set)</li>
 </ul>
+
+# 06 Plurality
+https://cs50.harvard.edu/x/2022/psets/3/plurality/<br>
+Perhaps the simplest way to hold an election, though, is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election.<br>
 
   
 
