@@ -131,7 +131,7 @@ Solution:<br>
 			</table> <br>
 <h5> Observations </h5>
 <ul>
-  <li> Sort1: Bubble Sort (Significant differebce between Random & Sorted Performance (O and Ω Vary))</li>
+  <li> Sort1: Bubble Sort (Significant difference between Random & Sorted Performance (O and Ω Vary))</li>
   <li> Sort2: Merge Sort (Appears to perform better overall indicating the superior Merge Sort) </li>
   <li> Sort3: Selection Sort (Takes longer time even on Sorted Data Set)</li>
 </ul>
