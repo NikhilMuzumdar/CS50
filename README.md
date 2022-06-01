@@ -141,7 +141,7 @@ https://cs50.harvard.edu/x/2022/psets/3/plurality/<br>
 Perhaps the simplest way to hold an election, though, is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election.<br>
 
 # Runoff (Election)
-https://cs50.harvard.edu/x/2022/psets/3/runoff/
+https://cs50.harvard.edu/x/2022/psets/3/runoff/<br>
 A voting system known as a ranked-choice voting system where voters can vote for more than one candidate.
 <br>Instead of just voting for their top choice, they can rank the candidates in order of preference. 
 
