@@ -35,7 +35,7 @@ https://cs50.harvard.edu/x/2022/psets/2/caesar/<br>
 Takes a key to shift the places of letters by that many places. Non alphabets remain unchanged.<br>
 Implimentation using command line argument.<br>
 
-# 06.L Lab Assignment
+# 06. Lab Assignment
 https://cs50.harvard.edu/x/2022/labs/3/<br>
 Solution:<br>
 <table cellspacing=1 border=1>
@@ -140,10 +140,13 @@ Solution:<br>
 https://cs50.harvard.edu/x/2022/psets/3/plurality/<br>
 Perhaps the simplest way to hold an election, though, is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election.<br>
 
-# Runoff (Election)
+# 07 Runoff (Election)
 https://cs50.harvard.edu/x/2022/psets/3/runoff/<br>
 A voting system known as a ranked-choice voting system where voters can vote for more than one candidate.
 <br>Instead of just voting for their top choice, they can rank the candidates in order of preference. 
 
+# 08. Lab Assignment
+https://cs50.harvard.edu/x/2022/labs/4/<br>
+Mofify volume of a wave file. 
 
 
