@@ -149,7 +149,7 @@ A voting system known as a ranked-choice voting system where voters can vote for
 https://cs50.harvard.edu/x/2022/labs/4/<br>
 Modify volume of a wave file by manipulating the bit files. 
 
-# 09. Filter-less
+# 09.A & B Filter-less (comfortable version)
 https://cs50.harvard.edu/x/2022/psets/4/filter/less/<br>
 Implement a program that applies filters to BMPs<br>
 
