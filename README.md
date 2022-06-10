@@ -153,4 +153,9 @@ Modify volume of a wave file by manipulating the bit files.
 https://cs50.harvard.edu/x/2022/psets/4/filter/less/<br>
 Implement a program that applies filters to BMPs<br>
 
+# 10 A/B. Recover
+https://cs50.harvard.edu/x/2022/psets/4/recover/<br>
+Implement a program that recovers JPEGs from a forensic image, per the below.<br>
+
+
 
