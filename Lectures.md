@@ -13,3 +13,15 @@ CS50 2021 in HDR - Lecture 2 - Arrays<br>
 # Lecture 03
 https://www.youtube.com/watch?v=yb0PY3LX2x8<br>
 CS50 2021 in HDR - Lecture 2 - Algorithms<br>
+
+# Lecture 04
+https://www.youtube.com/watch?v=nvO1sq_b_zI<br>
+CS50 2021 in HDR - Lecture 4 - Memory<br>
+
+# Lecture 05
+https://www.youtube.com/watch?v=-gpsiMiEOHU&t=7238s<br>
+CS50 2021 in HDR - Lecture 5 - Data Structures<br>
+
+# Lecture 06
+https://www.youtube.com/watch?v=ky-24RvI57s&t=7s<br>
+CS50 2021 in HDR - Lecture 6 - Python<br>
