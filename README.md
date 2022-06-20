@@ -162,5 +162,9 @@ This is slightly harder with edge detection algorithm<br>
 https://cs50.harvard.edu/x/2022/psets/4/recover/<br>
 Implement a program that recovers JPEGs from a forensic image, per the below.<br>
 
+# 11 A Lab 6: World Cup
+https://cs50.harvard.edu/x/2022/labs/6/#lab-6-world-cup<br>
+Write a program to run simulations of the FIFA World Cup.<br>
+
 
 
