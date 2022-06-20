@@ -29,3 +29,6 @@ def n_coins():
 
     coins = quarter + dime + nickel + penny
     print(int(coins))
+
+
+n_coins()
