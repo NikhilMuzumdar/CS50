@@ -1,37 +1,35 @@
-# CS50
-CS50 PSets
+# CS50 - CS50 PSets
 
-## Problem Set 1 - Hello
-https://cs50.harvard.edu/x/2022/psets/1/hello/<br>
-A program that prompts the user for their name and then prints hello, so-and-so, where so-and-so is their actual name.<br>
+<ol>
+<li> Problem Set 1 - Hello
+<br>https://cs50.harvard.edu/x/2022/psets/1/hello/</li><br>
 
-# Problem Set 1 - Mario-less
-https://cs50.harvard.edu/x/2022/psets/1/mario/less/<br>
+<li> Problem Set 1 - Mario-less
+<br>https://cs50.harvard.edu/x/2022/psets/1/mario/less/</li><br>
 
-# Problem Set 1 - Mario-more
-https://cs50.harvard.edu/x/2022/psets/1/mario/more/<br>
+<li> Problem Set 1 - Mario-more
+<br>https://cs50.harvard.edu/x/2022/psets/1/mario/more/</li><br>
 
-# Problem Set 1 - Cash
-https://cs50.harvard.edu/x/2022/psets/1/cash/<br>
+<li> Problem Set 1 - Cash
+<br>https://cs50.harvard.edu/x/2022/psets/1/cash/</li><br>
 
+<li> Problem Set 1 - Credit
+<br>https://cs50.harvard.edu/x/2022/psets/1/credit/</li><br>
 
-# Problem Set 1 - Credit
-https://cs50.harvard.edu/x/2022/psets/1/credit/<br>
+<li> Lab 2 Scrabble
+<br>https://cs50.harvard.edu/x/2022/labs/2/</li><br>
 
-# Lab 2 Scrabble
-https://cs50.harvard.edu/x/2022/labs/2/<br>
+<li> Problem Set 2 - Readability
+<br>https://cs50.harvard.edu/x/2022/psets/2/readability/</li><br>
 
-# Problem Set 2 - Readability
-https://cs50.harvard.edu/x/2022/psets/2/readability/<br>
+<li> Problem Set 2 - Caesar
+<br>https://cs50.harvard.edu/x/2022/psets/2/caesar/</li><br>
 
-# Problem Set 2 - Caesar
-https://cs50.harvard.edu/x/2022/psets/2/caesar/<br>
+<li> Problem Set 2 - Substitution
+<br>https://cs50.harvard.edu/x/2022/psets/2/substitution/</li><br>
 
-# Problem Set 2 - Substitution
-https://cs50.harvard.edu/x/2022/psets/2/substitution/<br>
-
-# Lab 3 Sort
-https://cs50.harvard.edu/x/2022/labs/3/<br>
+<li> Lab 3 Sort
+<br>https://cs50.harvard.edu/x/2022/labs/3/<br>
 Solution:<br>
 <table cellspacing=1 border=1>
 					<tr>
@@ -130,54 +128,57 @@ Solution:<br>
   <li> Sort2: Merge Sort (Appears to perform better overall indicating the superior Merge Sort) </li>
   <li> Sort3: Selection Sort (Takes longer time even on Sorted Data Set)</li>
 </ul>
+</li><br>
 
-# Problem Set 3 - Plurality
-https://cs50.harvard.edu/x/2022/psets/3/plurality/<br>
+<li> Problem Set 3 - Plurality
+<br>https://cs50.harvard.edu/x/2022/psets/3/plurality/</li><br>
 
-# Problem Set 3 - Runoff
-https://cs50.harvard.edu/x/2022/psets/3/runoff/<br>
+<li> Problem Set 3 - Runoff
+<br>https://cs50.harvard.edu/x/2022/psets/3/runoff/</li><br>
 
-# Lab 4 Volume
-https://cs50.harvard.edu/x/2022/labs/4/<br>
+<li> Lab 4 Volume
+<br>https://cs50.harvard.edu/x/2022/labs/4/</li><br>
 
-# Problem Set 4 - filter-less
-https://cs50.harvard.edu/x/2022/psets/4/filter/less/<br>
+<li> Problem Set 4 - filter-less
+<br>https://cs50.harvard.edu/x/2022/psets/4/filter/less/</li><br>
 
-# Problem Set 4 - filter-more
-https://cs50.harvard.edu/x/2022/psets/4/filter/more/<br>
+<li> Problem Set 4 - filter-more
+<br>https://cs50.harvard.edu/x/2022/psets/4/filter/more/</li><br>
 
-# Problem Set 4 - Recover
-https://cs50.harvard.edu/x/2022/psets/4/recover/<br>
+<li> Problem Set 4 - Recover
+<br>https://cs50.harvard.edu/x/2022/psets/4/recover/</li><br>
 
-# Lab 6 World Cup
-https://cs50.harvard.edu/x/2022/labs/6/#lab-6-world-cup<br>
+<li> Lab 6 World Cup
+<br>https://cs50.harvard.edu/x/2022/labs/6/</li><br>
 
-# Problem Set 6 - Hello (Python)
-https://cs50.harvard.edu/x/2022/psets/6/hello/<br>
+<li> Problem Set 6 - Hello (Python)
+<br>https://cs50.harvard.edu/x/2022/psets/6/hello/</li><br>
 
-# Problem Set 6 - Mario-less (Python)
-https://cs50.harvard.edu/x/2022/psets/6/mario/less/<br>
+<li> Problem Set 6 - Mario-less (Python)
+<br>https://cs50.harvard.edu/x/2022/psets/6/mario/less/</li><br>
 
-# Problem Set 6 - Mario-more (Python)
-https://cs50.harvard.edu/x/2022/psets/6/mario/more/<br>
+<li> Problem Set 6 - Mario-more (Python)
+<br>https://cs50.harvard.edu/x/2022/psets/6/mario/more/</li><br>
 
-# Problem Set 6 - Cash (Python)
-https://cs50.harvard.edu/x/2022/psets/6/cash/<br>
+<li> Problem Set 6 - Cash (Python)
+<br>https://cs50.harvard.edu/x/2022/psets/6/cash/</li><br>
 
-# Problem Set 6 - Credit (Python)
-https://cs50.harvard.edu/x/2022/psets/6/credit/<br>
+<li> Problem Set 6 - Credit (Python)
+<br>https://cs50.harvard.edu/x/2022/psets/6/credit/</li><br>
 
-# Problem Set 6 - Readablity (Python)
-https://cs50.harvard.edu/x/2022/psets/6/readability/<br>
+<li> Problem Set 6 - Readablity (Python)
+<br>https://cs50.harvard.edu/x/2022/psets/6/readability/</li><br>
 
-# Problem Set 6 - DNA (Python)
-https://cs50.harvard.edu/x/2022/psets/6/dna/<br>
+<li> Problem Set 6 - DNA (Python)
+<br>https://cs50.harvard.edu/x/2022/psets/6/dna/</li><br>
 
-# Lab 7 Songs
-https://cs50.harvard.edu/x/2022/labs/7/<br>
+<li> Lab 7 Songs
+<br>https://cs50.harvard.edu/x/2022/labs/7/</li><br>
 
-# Problem Set 7 - Movies (SQL)
-https://cs50.harvard.edu/x/2022/psets/7/movies/<br>
+<li> Problem Set 7 - Movies (SQL)
+<br>https://cs50.harvard.edu/x/2022/psets/7/movies/</li><br>
 
-# Problem Set 7 - Fiftyville (SQL)
-https://cs50.harvard.edu/x/2022/psets/7/fiftyville/<br>
+<li> Problem Set 7 - Fiftyville (SQL)
+<br>https://cs50.harvard.edu/x/2022/psets/7/fiftyville/</li><br>
+
+</ol>
