@@ -121,7 +121,7 @@ Solution:<br>
 					<td style=min-width:50px>33.00</td>
 					<td style=min-width:50px>35.00</td>
 				</tr>
-			</table> <br>
+			</table>
 <h5> Observations </h5>
 <ul>
   <li> Sort1: Bubble Sort (Significant difference between Random & Sorted Performance (O and Ω Vary))</li>
