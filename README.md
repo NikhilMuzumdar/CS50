@@ -1,41 +1,36 @@
 # CS50
 CS50 PSets
 
-# 00. Hello Name 
+# Problem Set 1 - Hello
 https://cs50.harvard.edu/x/2022/psets/1/hello/<br>
 A program that prompts the user for their name and then prints hello, so-and-so, where so-and-so is their actual name.<br>
 
-# 01. Mario Triangle
+# Problem Set 1 - Mario-less
+https://cs50.harvard.edu/x/2022/psets/1/mario/less/<br>
+
+# Problem Set 1 - Mario-more
 https://cs50.harvard.edu/x/2022/psets/1/mario/more/<br>
-A program that prints a traingle from the game mario based on validated height input by user.<br>
 
-# 02. Credit
-https://cs50.harvard.edu/x/2022/psets/1/credit/<br>
-Uses Luhn’s Algorithm to validate a given credit card number.<br>
-
-# 02.A Cash (Optional)
+# Problem Set 1 - Cash
 https://cs50.harvard.edu/x/2022/psets/1/cash/<br>
-Calculates the least number of coins to be given to return a given change.
 
-# 03. Scrabble
-https://scrabble.hasbro.com/en-us/rules<br>
-Takes name from 2 players and returns the winner after calculating points assigned to each character.<br>
 
-# 04. Readability
-https://cs50.harvard.edu/x/2022/psets/2/readability/
-Uses Coleman-Liau index to output that (U.S.) grade level that is needed to understand some text.<br>
+# Problem Set 1 - Credit
+https://cs50.harvard.edu/x/2022/psets/1/credit/<br>
 
-# 05. Substitution
-https://cs50.harvard.edu/x/2022/psets/2/substitution/<br>
-Takes a encryption 26 letter key, Example NQXPOMAFTRHLZGECYJIUWSKDVB to encryypt the input.<br>
-Implimentation using command line argument.<br>
+# Lab 2 Scrabble
+https://cs50.harvard.edu/x/2022/labs/2/<br>
 
-# 05.A Caesar Cipher (Optional)
+# Problem Set 2 - Readability
+https://cs50.harvard.edu/x/2022/psets/2/readability/<br>
+
+# Problem Set 2 - Caesar
 https://cs50.harvard.edu/x/2022/psets/2/caesar/<br>
-Takes a key to shift the places of letters by that many places. Non alphabets remain unchanged.<br>
-Implimentation using command line argument.<br>
 
-# 06. Lab Assignment
+# Problem Set 2 - Substitution
+https://cs50.harvard.edu/x/2022/psets/2/substitution/<br>
+
+# Lab 3 Sort
 https://cs50.harvard.edu/x/2022/labs/3/<br>
 Solution:<br>
 <table cellspacing=1 border=1>
@@ -135,36 +130,4 @@ Solution:<br>
   <li> Sort2: Merge Sort (Appears to perform better overall indicating the superior Merge Sort) </li>
   <li> Sort3: Selection Sort (Takes longer time even on Sorted Data Set)</li>
 </ul>
-
-# 06 Plurality (Election)
-https://cs50.harvard.edu/x/2022/psets/3/plurality/<br>
-Perhaps the simplest way to hold an election, though, is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election.<br>
-
-# 07 Runoff (Election)
-https://cs50.harvard.edu/x/2022/psets/3/runoff/<br>
-A voting system known as a ranked-choice voting system where voters can vote for more than one candidate.
-<br>Instead of just voting for their top choice, they can rank the candidates in order of preference. 
-
-# 08. Lab Assignment
-https://cs50.harvard.edu/x/2022/labs/4/<br>
-Modify volume of a wave file by manipulating the bit files. 
-
-# 09 A/B. Filter-less (comfortable version)
-https://cs50.harvard.edu/x/2022/psets/4/filter/less/<br>
-Implement a program that applies filters to BMPs<br>
-
-# 09 C/D. Filter-more
-https://cs50.harvard.edu/x/2022/psets/4/filter/more/<br>
-Implement a program that applies filters to BMPs<br>
-This is slightly harder with edge detection algorithm<br>
-
-# 10 A/B. Recover
-https://cs50.harvard.edu/x/2022/psets/4/recover/<br>
-Implement a program that recovers JPEGs from a forensic image, per the below.<br>
-
-# 11 A Lab 6: World Cup
-https://cs50.harvard.edu/x/2022/labs/6/#lab-6-world-cup<br>
-Write a program to run simulations of the FIFA World Cup.<br>
-
-
 
