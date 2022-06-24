@@ -1,7 +1,7 @@
 # CS50
 CS50 PSets
 
-# Problem Set 1 - Hello
+## Problem Set 1 - Hello
 https://cs50.harvard.edu/x/2022/psets/1/hello/<br>
 A program that prompts the user for their name and then prints hello, so-and-so, where so-and-so is their actual name.<br>
 
