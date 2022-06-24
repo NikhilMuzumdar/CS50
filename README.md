@@ -131,3 +131,53 @@ Solution:<br>
   <li> Sort3: Selection Sort (Takes longer time even on Sorted Data Set)</li>
 </ul>
 
+# Problem Set 3 - Plurality
+https://cs50.harvard.edu/x/2022/psets/3/plurality/<br>
+
+# Problem Set 3 - Runoff
+https://cs50.harvard.edu/x/2022/psets/3/runoff/<br>
+
+# Lab 4 Volume
+https://cs50.harvard.edu/x/2022/labs/4/<br>
+
+# Problem Set 4 - filter-less
+https://cs50.harvard.edu/x/2022/psets/4/filter/less/<br>
+
+# Problem Set 4 - filter-more
+https://cs50.harvard.edu/x/2022/psets/4/filter/more/<br>
+
+# Problem Set 4 - Recover
+https://cs50.harvard.edu/x/2022/psets/4/recover/<br>
+
+# Lab 6 World Cup
+https://cs50.harvard.edu/x/2022/labs/6/#lab-6-world-cup<br>
+
+# Problem Set 6 - Hello (Python)
+https://cs50.harvard.edu/x/2022/psets/6/hello/<br>
+
+# Problem Set 6 - Mario-less (Python)
+https://cs50.harvard.edu/x/2022/psets/6/mario/less/<br>
+
+# Problem Set 6 - Mario-more (Python)
+https://cs50.harvard.edu/x/2022/psets/6/mario/more/<br>
+
+# Problem Set 6 - Cash (Python)
+https://cs50.harvard.edu/x/2022/psets/6/cash/<br>
+
+# Problem Set 6 - Credit (Python)
+https://cs50.harvard.edu/x/2022/psets/6/credit/<br>
+
+# Problem Set 6 - Readablity (Python)
+https://cs50.harvard.edu/x/2022/psets/6/readability/<br>
+
+# Problem Set 6 - DNA (Python)
+https://cs50.harvard.edu/x/2022/psets/6/dna/<br>
+
+# Lab 7 Songs
+https://cs50.harvard.edu/x/2022/labs/7/<br>
+
+# Problem Set 7 - Movies (SQL)
+https://cs50.harvard.edu/x/2022/psets/7/movies/<br>
+
+# Problem Set 7 - Fiftyville (SQL)
+https://cs50.harvard.edu/x/2022/psets/7/fiftyville/<br>
