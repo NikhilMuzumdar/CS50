@@ -25,3 +25,11 @@ CS50 2021 in HDR - Lecture 5 - Data Structures<br>
 # Lecture 06
 https://www.youtube.com/watch?v=ky-24RvI57s&t=7s<br>
 CS50 2021 in HDR - Lecture 6 - Python<br>
+
+# Lecture 07
+https://www.youtube.com/watch?v=D-1kNFO568c<br>
+CS50 2021 in HDR - Lecture 7 - SQL<br>
+
+# Lecture 08
+https://www.youtube.com/watch?v=2VauFS071pg<br>
+CS50 2021 in HDR - Lecture 8 - HTML, CSS, JavaScript<br>
