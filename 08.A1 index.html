@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <!-- // TODO: Add code to check answers to questions -->
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here (Answer Draco Malfoy)-->
+                <h3>Which one of these characters is not friends with Harry Potter?</h3>
+
+                    <button class="incorrect">Ron Weasley</button>
+                    <button class="incorrect">Neville Longbottom</button>
+                    <button class="correct">Draco Malfoy</button>
+                    <button class="incorrect">Hermione Granger</button>
+                    <br>
+                    <p type="text" id="feedback1" name="fname" placeholder="Click on one of the Button to check the Answer"></p>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h3>Which country is ranked No.1 in terms of Land Area? </h3>
+                    <input type="text" placeholder="Enter Name of the Country">
+                    <button id="check-answer">Check Answer</button>
+                    <p id="feedback2"></p>
+            </div>
+        </div>
+    </body>
+</html>
