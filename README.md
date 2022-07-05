@@ -181,4 +181,7 @@ Solution:<br>
 <li> Problem Set 7 - Fiftyville (SQL)
 <br>https://cs50.harvard.edu/x/2022/psets/7/fiftyville/</li><br>
 
+<li> Lab 8 - Trivia (HTML CSS JS)
+<br>https://cs50.harvard.edu/x/2022/labs/8/#lab-8-trivia</li><br>
+
 </ol>
