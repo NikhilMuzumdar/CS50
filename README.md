@@ -184,4 +184,7 @@ Solution:<br>
 <li> Lab 8 - Trivia (HTML CSS JS)
 <br>https://cs50.harvard.edu/x/2022/labs/8/#lab-8-trivia</li><br>
 
+<li> Problem Set 8 - Homepage (HTML CSS JS)
+<br>https://cs50.harvard.edu/x/2022/psets/8/homepage/</li><br>
+
 </ol>
