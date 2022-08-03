@@ -148,6 +148,9 @@ Solution:<br>
 <li> Problem Set 4 - Recover
 <br>https://cs50.harvard.edu/x/2022/psets/4/recover/</li><br>
 
+<li> Lab 5 - Inheritance
+<br>https://cs50.harvard.edu/x/2022/labs/5/</li><br>
+
 <li> Lab 6 World Cup
 <br>https://cs50.harvard.edu/x/2022/labs/6/</li><br>
 
