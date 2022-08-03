@@ -187,7 +187,10 @@ Solution:<br>
 <li> Problem Set 8 - Homepage (HTML CSS JS)
 <br>https://cs50.harvard.edu/x/2022/psets/8/homepage/</li><br>
 
-<li> Problem Set 9 - Birthdays (Flask)
+<li> Lab Set 9 - Birthdays (Flask)
 <br>https://cs50.harvard.edu/x/2022/labs/9/</li><br>
+
+<li> Problem Set 9 - Finance (Flask)
+<br>https://cs50.harvard.edu/x/2022/psets/9/finance/</li><br>
 
 </ol>
