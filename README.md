@@ -151,6 +151,9 @@ Solution:<br>
 <li> Lab 5 - Inheritance
 <br>https://cs50.harvard.edu/x/2022/labs/5/</li><br>
 
+<li> Problem Set 5 - Speller
+<br>https://cs50.harvard.edu/x/2022/psets/5/speller/</li><br>
+
 <li> Lab 6 World Cup
 <br>https://cs50.harvard.edu/x/2022/labs/6/</li><br>
 
