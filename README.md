@@ -199,4 +199,7 @@ Solution:<br>
 <li> Problem Set 9 - Finance (Flask)
 <br>https://cs50.harvard.edu/x/2022/psets/9/finance/</li><br>
 
+<li> Problem Set 10 - Final Project (News update using telegram bot and Selenium)
+<br>https://cs50.harvard.edu/x/2022/project/</li><br>
+
 </ol>
